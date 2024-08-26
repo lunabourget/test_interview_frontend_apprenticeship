@@ -1,0 +1,40 @@
+/* taskThree.css */
+
+body {
+  background: linear-gradient(135deg, #05071a 0%, #367df7 250%);
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div {
+  background-color: #05071a;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+#myList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myList li {
+  background-color: #367df7ad;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  color: rgba(255, 255, 255, 0.8);
+  transition: background-color 0.3s ease;
+}
+
+#myList li:hover {
+  background-color: #3a6ef2;
+  cursor: pointer;
+}
