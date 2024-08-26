@@ -23,4 +23,4 @@ const getEvenNumbers2 = (input: number[]): number[] => {
 
 const inputlist:number[] = [1, 4, 7, 12, 45, 88];
 
-getEvenNumbers(inputlist); //result : [4, 12, 88];
+console.log(getEvenNumbers(inputlist)); //result : [4, 12, 88];
