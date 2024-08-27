@@ -4,7 +4,6 @@ import React from 'react';
 interface GreetingProps {
   name: string;
 }
-
 /**
 *  Returns all even numbers from an input array
 * @param name
