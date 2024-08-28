@@ -11,7 +11,7 @@ interface GreetingProps {
 
 const Greeting: React.FC<GreetingProps> = ({ name }) => {
   return (
-    <h1>Hello, {name}!</h1>
+    <h1>Hello, {name} !</h1>
   );
 };
 

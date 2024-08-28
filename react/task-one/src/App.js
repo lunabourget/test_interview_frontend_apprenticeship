@@ -18,7 +18,7 @@ function App() {
       <header className="App-header">
         <Greetings name={name}/>
         <label>
-          change the name
+          Rename :
           <br />
           <input type="text" name="change_name" onChange={handleChange} />
         </label>
