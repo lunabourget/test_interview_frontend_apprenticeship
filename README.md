@@ -1,36 +1,8 @@
-# Check Front-End Developer Apprenticeship Technical Assessment
 
-Welcome to the Check Front-End Developer Apprenticeship Technical Assessment
+# How to run this project
 
-This assessment is designed to evaluate your foundational knowledge of JavaScript and React. We're looking for candidates who can demonstrate a good understanding of core concepts, problem-solving skills, and the ability to write clean, maintainable code.
+This project has been developed with `Typescript`, `Javascript` and `React`. 
 
-## Instructions
+1. To run projects in the `javascript` section you just need to open it in your web browser.
 
-1. **Fork this Repository:** Click the "Fork" button at the top right of this page to create a copy of this repository in your own GitHub account.
-
-2. **Complete the Tasks:**
-   * Navigate to the `javascript` and `react` folders.
-   * Each folder contains a `README.md` file with specific instructions for the tasks within that folder.
-
-3. **Commit and Push:**
-   * As you work, make regular commits to track your progress.
-   * Push your changes to your forked repository.
-
-4. **Share Your Repository:**
-   * Once you've completed the tasks, share the link to your forked repository with us.
-
-## Evaluation
-
-We'll be evaluating your code based on the following criteria:
-
-* **Completeness:** Did you attempt and complete all the tasks?
-* **Code Quality:** Is your code clean, readable, and well-organized?
-* **Functionality:** Does your code work as expected and produce the correct output?
-* **Understanding of Concepts:** Do you demonstrate a grasp of basic JavaScript and React concepts?
-* **Problem-Solving:** How do you approach and solve problems?
-
-## Good luck!
-
-We're excited to see your work! If you have any questions, feel free to reach out.
-
-**The Check Team**
+2. For projects in the `react` section you need to go in the repertory you want and run `npm start` in the terminal. If another build is already running out, you will have to precise if you want to run it in a different port. Tape `y` and a new window will appears in your browser with the project.
